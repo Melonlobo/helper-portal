@@ -1,0 +1,16 @@
+{       
+        "auditLogApiUrl":"https://192.168.0.156/audit/api/auditlog/",
+    "auditLogApiManagementUrl": "https://192.168.0.156/auditlog/api/auditlogmanagement/",
+        "emailApiUrl": "https://192.168.0.156:44354/api/email/",
+        "emailApiManagementUrl": "https://192.168.0.156:44354/api/emailmanagement/",
+        "smsApiUrl": "https://192.168.0.156:44355/api/sms/",
+        "smsApiManagementUrl": "https://192.168.0.156:44355/api/smsmanagement/",
+        "fileApiUrl": "https://192.168.0.156/api/fileupload/",
+        "fileApiManagementUrl": "https://192.168.0.156/fileupload/api/fileuploadmanagement/",
+"reportApiUrl": "https://192.168.0.156/reports/api/report/",
+        "reportApiManagementUrl": "https://192.168.0.156/reports/api/reportmanagement/",
+"notificationApiUrl": "https://192.168.0.156/notification/api/notification/",
+        "notificationApiManagementUrl": "https://192.168.0.156/notification/api/notificationmanagement/",
+        "rolePermissionApiUrl" : "https://192.168.0.156/rolepermission/api/rolepermissions/",
+        "rolePermissionApiManagementUrl":"https://192.168.0.156/rolepermission/api/rolepermissionsmanagement/"
+}
